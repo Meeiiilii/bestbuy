@@ -2,7 +2,7 @@ import fs from 'fs/promises';
 import BestBuyAPI from 'bestbuy';
 import open from 'open';
 
-const API_KEY = ''; // Replace with your API key
+const API_KEY = 'UGMHGbOiq3nA8By6SMdDg8Jz'; // Replace with your API key
 const SKUs = [6535503];
 
 async function delay(ms) {
