@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bestbuy": "^2.4.1",
+    "open": "^9.1.0"
+  }
+}
